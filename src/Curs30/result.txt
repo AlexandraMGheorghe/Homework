@@ -1,0 +1,7 @@
+Cuvintele introduse sunt:
+ana alexandra zuzu icre 
+1. Cel mai scurt cuvant: ana
+2. Cel mai lung cuvant: alexandra
+3. Primul cuvant in ordine alfabetica: alexandra
+4. Ultimul cuvant in ordine alfabetica: zuzu
+5. Numarul total de cuvinte: 4
